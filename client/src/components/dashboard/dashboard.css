@@ -1,0 +1,131 @@
+/* dashboard.css */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  input[type="text"],
+  select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .chart-container {
+    max-width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  @media screen and (max-width: 600px) {
+    table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+  
+    th, td {
+      min-width: 100px;
+    }
+  }
+  
+  /* Vibrant Colors */
+  .bg-primary {
+    background-color: #3e64ff;
+    color: #fff;
+  }
+  
+  .bg-primary-dark {
+    background-color: #304b9c;
+    color: #fff;
+  }
+  
+  .bg-accent {
+    background-color: #ff4081;
+    color: #fff;
+  }
+  
+  .bg-accent-dark {
+    background-color: #d40d56;
+    color: #fff;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* dashboard.css
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  @media screen and (max-width: 600px) {
+    table {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+  
+    th, td {
+      min-width: 100px;
+    }
+  
+    input[type="text"],
+    select {
+      width: 100%;
+    }
+  }
+   */
