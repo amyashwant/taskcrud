@@ -1,7 +1,5 @@
 # taskcrud
-crud application coonnected with MongoDb with admin dashboard minimum functionality
-see All functionality of my app on your localhost
-
+crud application 
 # Run App on your Localhost
 
 # step 1:
