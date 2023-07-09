@@ -1,6 +1,11 @@
-# taskcrud
+## taskcrud
 crud application 
-# Run App on your Localhost
+## Run App on your Localhost
+##### http://localhost:3000/ - Restration page
+##### http://localhost:3000/login - Login page
+##### http://localhost:3000/adduser - Task adding page
+##### http://localhost:3000/edituser/:id - update task page
+##### http://localhost:3000/dashboard - Admin dashboard page
 
 # step 1:
 ### git clone https://github.com/amyashwant/taskcrud.git
@@ -18,8 +23,3 @@ crud application
 # now see your app running on your localhost
 
 
-# http://localhost:3000/ - Restration page
-# http://localhost:3000/login - Login page
-# http://localhost:3000/adduser - Task adding page
-# http://localhost:3000/edituser/:id - update task page
-# http://localhost:3000/dashboard - Admin dashboard page
