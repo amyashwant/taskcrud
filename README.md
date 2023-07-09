@@ -1,6 +1,6 @@
 ## crud application 
  
-## Run App on your Localhost #####Steps are listed below                                                                     
+#### Run App on your Localhost (Steps are listed below)                                                                     
 ##### Restration page- http://localhost:3000/                                               
 ##### Login page- http://localhost:3000/login                                          
 ##### Task adding page- http://localhost:3000/adduser                                  
